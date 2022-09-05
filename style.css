@@ -18,6 +18,10 @@ h1{
   border: 10px double #dad8a7;
 }
 
+ul{
+ display: inline-block;
+}
+
 /* Paleta de cores
 Ciano: #3fb8af
 Azul calcinha: #7fc7af
