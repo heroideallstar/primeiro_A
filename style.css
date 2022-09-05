@@ -12,6 +12,11 @@ body{
   width: 25%;
 }
 
+h1{
+  font-size: 50px;
+  text-align: center;
+  border: 10px double #dad8a7;
+}
 
 /* Paleta de cores
 Ciano: #3fb8af
