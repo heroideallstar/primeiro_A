@@ -1,23 +1,21 @@
 p{
   
   text-align: center;
-  background-color: #f0c505;
+  background-color: #dad8a7;
   font-size: 35px;
 }
 body{
-  background: #651366;
+  background: #3fb8af;
 }
-em strong {
-  color: #a71a5b;
-}
+
 #image{
   width: 25%;
 }
 
 
 /* Paleta de cores
-Roxo: #651366
-Magenta: #a71a5b
-Rosa: #e7204e
-Laranja: #f76e2a
-Amarelo: #f0c505 */
+Ciano: #3fb8af
+Azul calcinha: #7fc7af
+Branco sujo: #dad8a7
+Rosa fraco: #ff9e9d
+Rosa forte: #ff3d7f */
