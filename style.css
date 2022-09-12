@@ -20,6 +20,8 @@ h1{
 
 ul{
  display: inline-block;
+ vertical-align: top;
+ padding: 2%;
 }
 
 /* Paleta de cores
