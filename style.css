@@ -24,7 +24,21 @@ ul{
  padding: 2%;
  font-size: 25px;
 }
-
+.cabecalho{
+	border: 20px double #d9d593;
+}
+.ii{
+	font-size: 50px;
+	display: inline-block;
+	border: 10px solid #ffffff;
+	padding: 2%
+	color:black;
+	text-align: left;
+}
+.pizza{
+	padding: 2%;
+	margin-left: 43%;
+}
 /* Paleta de cores
 Ciano: #3fb8af
 Azul calcinha: #7fc7af
