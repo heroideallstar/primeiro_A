@@ -38,6 +38,8 @@ ul{
 .pizza{
 	padding: 2%;
 	margin-left: 43%;
+        display: inline-block;
+
 }
 
 h1{
